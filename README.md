@@ -38,14 +38,24 @@ Repository of code, graphs, and spreadsheets developed throughout my academic jo
 
 ### 
 
-##
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prof-Machado&show_icons=true&count_private=true&theme=dark"/><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prof-Machado&layout=compact&theme=dark"/><br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prof-Machado&theme=dark"/>
-</div>
 
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Prof-Machado&show_icons=true&count_private=true&theme=dark"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prof-Machado&theme=dark"/>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prof-Machado&layout=compact&theme=dark"/>
+
+</div>
 <div>
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=85&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"/>
 </div>
