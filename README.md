@@ -38,6 +38,15 @@
 
 ###
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prof-machado&show_icons=true&locale=en" alt="prof-machado" />
+</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=prof-machado&label=Profile%20views&color=0e75b6&style=flat" alt="prof-machado" /> </p>
+
+
+###
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=85&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
