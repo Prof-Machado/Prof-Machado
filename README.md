@@ -36,26 +36,27 @@ Repository of code, graphs, and spreadsheets developed throughout my academic jo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="60" alt="swift"/>
 </div>
 
-### 
+###
 
 <div align="center">
 
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Prof-Machado&show_icons=true&count_private=true&theme=dark"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Prof-Machado&show_icons=true&count_private=true&theme=dark&cache_seconds=0"/>
       </td>
       <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prof-Machado&theme=dark"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prof-Machado&theme=dark&cache_seconds=0"/>
       </td>
     </tr>
   </table>
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prof-Machado&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prof-Machado&layout=compact&theme=dark&cache_seconds=0"/>
 
 </div>
+
 <div>
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=85&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"/>
 </div>
