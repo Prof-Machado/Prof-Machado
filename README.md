@@ -82,6 +82,6 @@
 <!-- ===================================================== -->
 <!-- FOOTER (onda inferior animada)                        -->
 <!-- ===================================================== -->
-<div>
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=85&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&descSize=20&descAlign=50&descAlignY=50&color=gradient"/>
-</div>
+<p align="center">
+  <img src="assets/footer.svg" width="100%">
+</p>
