@@ -76,7 +76,7 @@
 <!-- ESTATÍSTICAS DO GITHUB (LINGUAGENS MAIS USADAS)       -->
 <!-- ===================================================== -->
 <p align="center">
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prof-Machado&layout=compact&theme=dark"/>
+  <img width="300" src="https://github-readme-stats-zeta-tan-22.vercel.app/api/top-langs/?username=Prof-Machado&layout=compact&theme=dark"/>
 </p>
 
 <!-- ===================================================== -->
