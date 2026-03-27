@@ -58,28 +58,21 @@
 
 <!-- ESPAÇAMENTO EXTRA -->
 <br>
-<br>
 
 <!-- ===================================================== -->
-<!-- ESTATÍSTICAS DO GITHUB (LINGUAGENS MAIS USADAS)       -->
+<!-- ESTATÍSTICAS DO GITHUB PERSONALIZADAS                -->
 <!-- ===================================================== -->
-<table align="center">
+<p align="center">
   <tr>
     <td>
       <p align="center">
-        <img width="400" src="https://github-readme-stats-3eqc.vercel.app/api?username=Prof-Machado&show_icons=true&count_private=true&theme=dark"/>
-      </p>
-    </td>
-    <td>
-     <p align="center">
-        <img width="420" src="https://streak-stats.demolab.com?user=Prof-Machado&theme=dark"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
+        <img width="400"
+             src="https://github-readme-stats-3eqc.vercel.app/api?username=Prof-Machado&show_icons=true&count_private=true&theme=dark&bg_color=00000000&hide_title=true&text_color=ffffff&icon_color=ffffff"/>
+    
+<!-- Linguagens mais usadas -->
 <p align="center">
-  <img width="300" src="https://github-readme-stats-zeta-tan-22.vercel.app/api/top-langs/?username=Prof-Machado&layout=compact&theme=dark"/>
+  <img width="300" 
+       src="https://github-readme-stats-3eqc.vercel.app/api/top-langs/?username=Prof-Machado&layout=compact&theme=dark&bg_color=00000000&title_color=00000000&text_color=ffffff"/>
 </p>
 
 <!-- ===================================================== -->
@@ -88,3 +81,6 @@
 <p align="center">
   <img src="assets/footer.svg" width="100%">
 </p>
+
+
+
