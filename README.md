@@ -63,6 +63,21 @@
 <!-- ===================================================== -->
 <!-- ESTATÍSTICAS DO GITHUB (LINGUAGENS MAIS USADAS)       -->
 <!-- ===================================================== -->
+<table align="center">
+  <tr>
+    <td>
+      <p align="center">
+        <img width="400" src="https://github-readme-stats-3eqc.vercel.app/api?username=Prof-Machado&show_icons=true&count_private=true&theme=dark"/>
+      </p>
+    </td>
+    <td>
+     <p align="center">
+        <img width="420" src="https://streak-stats.demolab.com?user=Prof-Machado&theme=dark"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img width="300" src="https://github-readme-stats-zeta-tan-22.vercel.app/api/top-langs/?username=Prof-Machado&layout=compact&theme=dark"/>
 </p>
