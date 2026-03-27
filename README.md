@@ -4,7 +4,8 @@
 
 <h1 align="center">Academic Portfolio of Scientific and Computational Projects</h1>
 
-<hr>
+</div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <h3 align="center"></h3>
+
 
 <p align="left">
 Repository of code, graphs, and spreadsheets developed throughout my academic journey at the Federal University of Pará, with experience in programming languages C, C++, Fortran, Haskell, LISP, Prolog, ML, APL, ALGOL, and Swift, using numerical libraries LAPACK, BLAS, LINPACK, and EISPACK, and tools such as X’Pert (XRD), Diffract.Suite, Origin, Wolfram Mathematica, and MATLAB/Octave.
@@ -38,27 +39,15 @@ Repository of code, graphs, and spreadsheets developed throughout my academic jo
 
 <br>
 
-<table align="center">
-  <tr>
-    <td>
-      <p align="center">
-        <img width="400" src="https://github-readme-stats.vercel.app/api?username=Prof-Machado&show_icons=true&count_private=true&theme=dark"/>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img width="420" src="https://streak-stats.demolab.com?user=Prof-Machado&theme=dark"/>
-      </p>
-    </td>
-  </tr>
-</table>
 
-<br>
+</div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <h3 align="center"></h3>
+
+
 
 <p align="center">
   <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prof-Machado&layout=compact&theme=dark"/>
 </p>
 
-<div>
+
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=85&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&descSize=20&descAlign=50&descAlignY=50&color=gradient"/>
 </div>
