@@ -35,31 +35,19 @@
 <!-- ===================================================== -->
 <!-- ÍCONES DE TECNOLOGIAS (STACK)                         -->
 <!-- ===================================================== -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="60"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="60"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=py" height="60"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" height="60"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="60"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="60"/>
-</div>
-
-<br>
+<p align="center">
+  <img src="assets/icons/matlab.svg" height="55"/> &nbsp;&nbsp;
+  <img src="assets/icons/mathematica.svg" height="55"/> &nbsp;&nbsp;
+  <img src="assets/icons/octave.svg" height="55"/> &nbsp;&nbsp;
+  <img src="assets/icons/python.svg" height="55"/> &nbsp;&nbsp;
+  <img src="assets/icons/numpy.svg" height="55"/> &nbsp;&nbsp;
+  <img src="assets/icons/latex.svg" height="55"/> &nbsp;&nbsp;
+  <img src="assets/icons/cplusplus.svg" height="55"/> &nbsp;&nbsp;
+  <img src="assets/icons/fortran.svg" height="55"/> &nbsp;&nbsp;
+  <img src="assets/icons/html.svg" height="55"/> &nbsp;&nbsp;
+  <img src="assets/icons/arduino.svg" height="55"/> &nbsp;&nbsp;
+  <img src="assets/icons/swift.svg" height="55"/>
+</p>
 
 <!-- ===================================================== -->
 <!-- LINHA DECORATIVA INFERIOR                             -->
