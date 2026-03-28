@@ -85,6 +85,7 @@
        src="https://github-readme-stats-3eqc.vercel.app/api/top-langs/?username=Prof-Machado&layout=compact&theme=dark&bg_color=00000000&title_color=00000000&text_color=ffffff&hide_border=true"/>
 </p>
 
+
 <!-- ===================================================== -->
 <!-- FOOTER (onda inferior animada)                        -->
 <!-- ===================================================== -->
