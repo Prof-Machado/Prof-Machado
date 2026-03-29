@@ -10,13 +10,17 @@
 <!-- ===================================================== -->
 <h1 align="center">
   Academic Scientific Computational Projects 
-  <img src="https://ufpa.br/wp-content/uploads/2023/12/Brasao-UFPA_Sigla-300x281.png" width="60" valign="middle">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Z5aWZnam9kc3VpemEzMDJpNTF5NmtoeGE5djRiOWIzb2N4dnYyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bIr8NLEUYqSsrDY57l/giphy.gif" width="60" valign="middle">
 </h1>
 
 <!-- ===================================================== -->
 <!-- DESCRIÇÃO DO REPOSITÓRIO                              -->
 <!-- ===================================================== -->
-<p align="left"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3MyY3ZzazZ3NXRqaWM4MmZoOHV3b2g5Nnp6cXZkaW16ZTJoN3RmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/kAm4u0lhDCmXnugz6p/giphy.gif" width="25" valign="middle"> Repository of code, graphs, and spreadsheets developed throughout of academic journey at the Federal University of Pará (UFPA), with experience in programming languages C, C++, Fortran, Haskell, LISP, Prolog, ML, APL, ALGOL, and Swift, using numerical libraries LAPACK, BLAS, LINPACK, and EISPACK, and tools such as X’Pert (XRD), Diffract.Suite, Origin, Wolfram Mathematica, and MATLAB/Octave. <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3MyY3ZzazZ3NXRqaWM4MmZoOHV3b2g5Nnp6cXZkaW16ZTJoN3RmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/kAm4u0lhDCmXnugz6p/giphy.gif" width="25" valign="middle"></p>
+<p align="left">
+Repository of code, graphs, and spreadsheets developed throughout the academic journey at the Federal University of Pará ( 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhxZjQxYzJ1ZzNmN3BjY3dyMTdzcjllZGkyYW9sOHdvYWZmNTl0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/1o1xaDFHcHxlksULlY/giphy.gif" width="38" valign="middle">
+), with experience in programming languages C, C++, Fortran, Haskell, LISP, Prolog, ML, APL, ALGOL, and Swift, using numerical libraries LAPACK, BLAS, LINPACK, and EISPACK, and tools such as X’Pert (XRD), Diffract.Suite, Origin, Wolfram Mathematica, and MATLAB/Octave.
+</p>
 
 <!-- ===================================================== -->
 <!-- LINHA DECORATIVA ANIMADA                              -->
@@ -75,7 +79,9 @@
   </tr>
 </table>
 
-<!-- Linguagens mais usadas -->
+<!-- ===================================================== -->
+<!-- Linguagens mais usadas                                -->
+<!-- ===================================================== -->
 <p align="center">
   <img width="300" 
        src="https://github-readme-stats-szsw.vercel.app/api/top-langs/?username=Prof-Machado&layout=compact&theme=dark&bg_color=00000000&title_color=00000000&text_color=ffffff&hide_border=true&cache_seconds=0"/>
