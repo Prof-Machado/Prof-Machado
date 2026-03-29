@@ -8,19 +8,15 @@
 <!-- ===================================================== -->
 <!-- TÍTULO PRINCIPAL                                      -->
 <!-- ===================================================== -->
-<h1 align="center" style="border:none; margin:0; padding:0;">
-  Academic Scientific Computational Projects
+<h1 align="center">
+  Academic Scientific Computational Projects 
+  <img src="https://ufpa.br/wp-content/uploads/2023/12/Brasao-UFPA_Sigla-300x281.png" width="60" valign="middle">
 </h1>
 
 <!-- ===================================================== -->
 <!-- DESCRIÇÃO DO REPOSITÓRIO                              -->
 <!-- ===================================================== -->
-<p align="left">
-  Repository of code, graphs, and spreadsheets developed throughout my academic journey at the Federal University of Pará, 
-  with experience in programming languages C, C++, Fortran, Haskell, LISP, Prolog, ML, APL, ALGOL, and Swift, 
-  using numerical libraries LAPACK, BLAS, LINPACK, and EISPACK, and tools such as X’Pert (XRD), Diffract.Suite, 
-  Origin, Wolfram Mathematica, and MATLAB/Octave.
-</p>
+<p align="left"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3MyY3ZzazZ3NXRqaWM4MmZoOHV3b2g5Nnp6cXZkaW16ZTJoN3RmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/kAm4u0lhDCmXnugz6p/giphy.gif" width="25" valign="middle"> Repository of code, graphs, and spreadsheets developed throughout my academic journey at the Federal University of Pará, with experience in programming languages C, C++, Fortran, Haskell, LISP, Prolog, ML, APL, ALGOL, and Swift, using numerical libraries LAPACK, BLAS, LINPACK, and EISPACK, and tools such as X’Pert (XRD), Diffract.Suite, Origin, Wolfram Mathematica, and MATLAB/Octave. <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3MyY3ZzazZ3NXRqaWM4MmZoOHV3b2g5Nnp6cXZkaW16ZTJoN3RmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/kAm4u0lhDCmXnugz6p/giphy.gif" width="25" valign="middle"></p>
 
 <!-- ===================================================== -->
 <!-- LINHA DECORATIVA ANIMADA                              -->
