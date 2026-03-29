@@ -67,14 +67,14 @@
     <td>
       <p align="center">
         <img width="440"
-             src="https://github-readme-stats-3eqc.vercel.app/api?username=Prof-Machado&show_icons=true&count_private=true&theme=dark&bg_color=00000000&hide_title=true&text_color=ffffff&icon_color=ffffff&hide_border=true&v=202603281800"/>
+             src="https://github-readme-stats-szsw.vercel.app/api?username=Prof-Machado&show_icons=true&count_private=true&theme=dark&bg_color=00000000&hide_title=true&text_color=ffffff&icon_color=ffffff&hide_border=true&cache_seconds=0"/>
       </p>
     </td>
     <td>
       <p align="center" style="border: 2px solid white; display: inline-block; padding: 4px; border-radius: 6px;">
-        <img width="420" 
-             src="https://streak-stats.demolab.com?user=Prof-Machado&theme=dark&background=00000000&hide_border=true&fire=ffffff&datesColor=ffffff&stroke=ffffff&ring=ffffff&sideNums=ffffff&currentStreakLabel=ffffff&currentStreakNum=ffffff&locale=en&v=202603281800"/>
-      </p>
+  <img width="420" 
+       src="https://streak-stats.demolab.com?user=Prof-Machado&theme=dark&background=00000000&hide_border=true&fire=ffffff&datesColor=ffffff&stroke=ffffff&ring=ffffff&sideNums=ffffff&currentStreakLabel=ffffff&currentStreakNum=ffffff&locale=en&t=123456789"/>
+</p>
     </td>
   </tr>
 </table>
@@ -82,7 +82,7 @@
 <!-- Linguagens mais usadas -->
 <p align="center">
   <img width="300" 
-       src="https://github-readme-stats-3eqc.vercel.app/api/top-langs/?username=Prof-Machado&layout=compact&theme=dark&bg_color=00000000&title_color=00000000&text_color=ffffff&hide_border=true&v=202603281800"/>
+       src="https://github-readme-stats-szsw.vercel.app/api/top-langs/?username=Prof-Machado&layout=compact&theme=dark&bg_color=00000000&title_color=00000000&text_color=ffffff&hide_border=true&cache_seconds=0"/>
 </p>
 
 <!-- ===================================================== -->
