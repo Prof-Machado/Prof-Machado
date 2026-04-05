@@ -17,9 +17,7 @@
 <!-- DESCRIÇÃO DO REPOSITÓRIO                              -->
 <!-- ===================================================== -->
 <p align="left">
-Repository of code, graphs, and spreadsheets developed throughout the academic journey at the Federal University of Pará ( 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhxZjQxYzJ1ZzNmN3BjY3dyMTdzcjllZGkyYW9sOHdvYWZmNTl0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/1o1xaDFHcHxlksULlY/giphy.gif" width="38" valign="middle">
-), with experience in programming languages C, C++, Fortran, Haskell, LISP, Prolog, ML, APL, ALGOL, and Swift, using numerical libraries LAPACK, BLAS, LINPACK, and EISPACK, and tools such as X’Pert (XRD), Diffract.Suite, Origin, Wolfram Mathematica, and MATLAB/Octave.
+Repository of code, graphs, and spreadsheets developed throughout the academic journey at the Federal University of Pará, with experience in programming languages C, C++, Fortran, Haskell, LISP, Prolog, ML, APL, ALGOL, and Swift, using numerical libraries LAPACK, BLAS, LINPACK, and EISPACK, and tools such as X’Pert (XRD), Diffract.Suite, Origin, Wolfram Mathematica, and MATLAB/Octave.
 </p>
 
 <!-- ===================================================== -->
